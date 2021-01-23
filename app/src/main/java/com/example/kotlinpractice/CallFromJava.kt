@@ -18,3 +18,12 @@ fun printLogWIthDefault(log: String = "This is default log" )
 {
     println("Hello $log")
 }
+
+
+fun helperFunction(log: String = "This is default log" )
+{
+    println("Hello $log")
+}
+
+
+
