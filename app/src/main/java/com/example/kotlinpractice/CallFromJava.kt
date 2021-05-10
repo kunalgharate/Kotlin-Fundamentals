@@ -2,6 +2,7 @@ package com.example.kotlinpractice
 
 fun main(args: Array<String>) {
 
+    course.printData("Kunal")
 }
 fun print() : Unit
 {
